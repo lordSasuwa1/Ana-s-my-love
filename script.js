@@ -23,14 +23,14 @@ const AppState = {
 };
 
 const PLAYLIST = [
-  {titre: 'Chanson 1', artiste: 'Artiste 1', pensee: 'Une déclaration puissante et passionnée. ❤️', fichier: 'musique/01-chanson.mp3'},
+  {titre: 'Chanson 1', artiste: 'Artiste 1', pensee: ' mon morceau pref du moment. 🙂‍↕️', fichier: 'musique/01-chanson.mp3'},
   {titre: 'Chanson 2', artiste: 'Artiste 2', pensee: 'Je te donne tout de moi, sans réserve. 🔥', fichier: 'musique/02-chanson.mp3'},
-  {titre: 'Chanson 3', artiste: 'Artiste 3', pensee: 'Je penserai à toi toujours...', fichier: 'musique/03-chanson.mp3'},
-  {titre: 'Chanson 4', artiste: 'Artiste 4', pensee: 'Tout est rose... ou plutôt rouge passion ! ❤️', fichier: 'musique/04-chanson.mp3'},
-  {titre: 'Chanson 5', artiste: 'Artiste 5', pensee: 'Tu me rends folle/fou d\'amour ! 🔥💖', fichier: 'musique/05-chanson.mp3'},
-  {titre: 'Chanson 6', artiste: 'Artiste 6', pensee: 'Cette chanson est pour toi.', fichier: 'musique/06-chanson.mp3'},
-  {titre: 'Chanson 7', artiste: 'Artiste 7', pensee: 'Un amour sans fin. ❤️', fichier: 'musique/07-chanson.mp3'},
-  {titre: 'Chanson 8', artiste: 'Artiste 8', pensee: 'Je ne peux m\'empêcher de tomber amoureux. 💕', fichier: 'musique/08-chanson.mp3'}
+  {titre: 'montagem rugada', artiste: 'Artiste 3', pensee: 'discutable....🤷😛', fichier: 'musique/03-chanson.mp3'},
+  {titre: 'Chanson 4', artiste: 'Artiste 4', pensee: ' Imagine toi dans un edit mdr! 🤣', fichier: 'musique/04-chanson.mp3'},
+  {titre: 'Chanson 5', artiste: 'Artiste 5', pensee: 'you got me! 🔥💖', fichier: 'musique/05-chanson.mp3'},
+  {titre: 'Chanson 6', artiste: 'Artiste 6', pensee: 'Cette chanson est pour toi. non c/est pour troll', fichier: 'musique/06-chanson.mp3'},
+  {titre: 'Chanson 7', artiste: 'Artiste 7', pensee: ' Doux rêves 🫠', fichier: 'musique/07-chanson.mp3'},
+  {titre: 'Chanson 8', artiste: 'Artiste 8', pensee: 'Je kiff trop 💕', fichier: 'musique/08-chanson.mp3'}
 ];
 
 // Initialisation
